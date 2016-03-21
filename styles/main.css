@@ -1,10 +1,10 @@
-body {background-color: red}
-
-h1 {font-style: Verdana; 
+body {font-family: Arial; background-color: #665544;
+}
+h1 {font-size: 20px;
+  font-style: Verdana; 
   font-weight: bold;
-  font-size: 20px}
+  }
 
-h2 {font-style: Verdana; 
-  font-size: 18px}
+h2 {font-size: 18px;font-style: Verdana;}
 
-p {font-style: arial; color: blue}
+p {color: 'blue';font-style: arial; }
