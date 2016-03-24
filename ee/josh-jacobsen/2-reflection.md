@@ -6,4 +6,4 @@ b) One of the other things I did well was to prioritise doing the things that I 
 
 2) What could I have done to improve?
 
-a) I could have been more involved with the Slack room this week. I tend to sometimes get drawn in to what I'm doing, and I should remember that there is a full cohort out there to interact with and communicate with
+a) I could have been more involved with the Slack room this week. I tend to sometimes get drawn in to what I'm doing, and I should remember that there is a full cohort out there to interact and communicate with
