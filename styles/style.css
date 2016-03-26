@@ -3,14 +3,17 @@ body {
 	padding: 0;
 	background: transparent url(bg.gif) no-repeat top left;
 	background-color: silver;
-	width: 1972px;
+	width: 1000px;
 	height: 667px;
 	font-family: Verdana; 
-	font-size: 11px;
+	font-size: 15px;
 	line-height: 110%;
 	color: #333333;
 }
 
+div{text-align: center;}
+
+figure{align-content: center;}
 
 
 h1 {font-size: 36px; font-family: sans-serif;
