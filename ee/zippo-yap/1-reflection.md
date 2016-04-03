@@ -1,8 +1,10 @@
-Why is reflection important?
+#Reflection - Week 1
+
+###Why is reflection important?
 Reflection is important because I think it holds you accountable for your actions and thoughts. Hopefully when I look back I’ll see some progress and be able to laugh about this adventure. 
 
-What did I do well this week?
+###What did I do well this week?
 I've always struggled with CSS and although I understood the theory of it, I was always too lazy to implement it. I'm really happy with my efforts this week on my website. I'm also glad that I managed to get the hang of using git commands. I was really scared of using it when I came across the instructions that came with the Orientation materials.
 
-What could I have done to improve?
+###What could I have done to improve?
 I should really try to manage my time better. The lack of sleep from staying up later really did not work out for me. I need to make sure that I set a cut-off time for me to go to bed. I should also factor in wind-down time so my brain will actually switch off when I try to sleep. I should also commit changes more often so that it's easier to revert back if I make a mistake. 
