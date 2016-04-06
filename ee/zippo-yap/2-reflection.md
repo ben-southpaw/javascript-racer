@@ -1,7 +1,0 @@
-#Reflection - Week 2
-
-###What did I do well this week?
-I think I worked at a really good pace this week. I started by skimming all the resources and this helped compared to my efforts last week. I was able to note to myself which resources would help me in my learning style and work my way through them in that order. I spent a lot of time last week on my website, so it made working on it this week much easier. I'm starting to get more confortable with using git commands and it's all starting to make much more sense so I'm really pleased!
-
-###What could I have done to improve?
-I'm still working on improving my typing skills and will hopefully start moving onto learning to type fancy characters. I've just figured out how to reset my branch to a previous commit, so I'm hoping I can learn more about how to utilise this better. Also, I need to remember to use branches instead of making changes directly in the master. I'm going to spend some time going over the advanced resources and will also try to tidy my current code up.
