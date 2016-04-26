@@ -34,7 +34,7 @@ function updatePlayerPosition(player){
       nextElement = player[i].nextElementSibling;
       // console.log(nextElement);
       if(player[i] === player[3]){
-        alert("Game Over!")
+        alert("Game Over")
         startGame(player1_items);
         startGame(player2_items);
       }else{
