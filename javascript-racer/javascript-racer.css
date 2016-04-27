@@ -1,0 +1,22 @@
+.racer_table td {
+  background-color: black;
+  height: 50px;
+  width: 50px;
+}
+
+.racer_table td.active {
+  background-color: white;
+  background-image: url(../car-icon.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+td {
+    vertical-align: baseline;
+    padding: 0px ;
+   
+}
+.container{
+   margin: auto;
+  width: 255px;
+}
