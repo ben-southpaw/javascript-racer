@@ -4,7 +4,7 @@
   width: 50px;
 }
 
-.racer_table td.active {
+.racer_table td.active { 
   background-color: white;
   background-image: url(car-icon.jpg);
   background-repeat: no-repeat;

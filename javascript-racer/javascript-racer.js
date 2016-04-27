@@ -8,7 +8,7 @@
   var player1_items = player1.querySelectorAll("td")
   var player2_items = player2.querySelectorAll("td")
 
-
+ 
 // find the code for the pressed key
   document.onkeyup = function(e){
     console.log(e.which);
