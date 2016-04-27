@@ -11,7 +11,7 @@
  
 // find the code for the pressed key
   document.onkeyup = function(e){
-    console.log(e.which);
+    console.log(e.which); 
   };
 
 // Set start state of the game
