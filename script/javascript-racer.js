@@ -1,17 +1,18 @@
 
+
 // document.addEventListener("DOMContentLoaded", function () {
   var player1 = document.getElementById("player1_strip");
   console.log(player1);
   var player2 = document.getElementById("player2_strip");
-  console.log(player2); 
+  console.log(player2);
 
   var player1_items = player1.querySelectorAll("td")
   var player2_items = player2.querySelectorAll("td")
 
- 
+
 // find the code for the pressed key
   document.onkeyup = function(e){
-    console.log(e.which); 
+    console.log(e.which);
   };
 
 // Set start state of the game
